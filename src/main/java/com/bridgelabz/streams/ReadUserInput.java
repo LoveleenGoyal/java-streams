@@ -36,7 +36,7 @@ Loveleen
 Enter age:
 21
 Enter language:
-Punjabi
+Java
 User data has been saved to src/main/java/com/bridgelabz/streams/destination
 
 * */
